@@ -6,4 +6,4 @@
 |---|------------------|----------|------|
 | 1 | | | |
 | 2 | | | |
-| 18 | [Прогноз оттока абонентов телеком-оператора](https://github.com/alex004v/ds_portfolio_yp/tree/main/18_telecom_clients_outflow_forecast) |  |  |
+| 18 | [Прогноз оттока абонентов телеком-оператора](https://github.com/alex004v/ds_portfolio_yp/tree/main/18_telecom_clients_outflow_forecast) | Оператор связи хочет научиться прогнозировать отток клиентов. Если абонент попадает в группу риска, оператор предлагает ему промокоды и/или специальные условия для удержания. | 🛠 Стек технологий: Python, Pandas, NumPy, Scikit-learn, CatBoost / RandomForest / Keras, Matplotlib, Seaborn, SQLite, SQLAlchemy, Исследовательский анализ данных (EDA), Feature Engineering, обработка дисбаланса классов. |
