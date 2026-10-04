@@ -6,4 +6,4 @@
 |---|------------------|----------|------|
 | 1 | | | |
 | 2 | | | |
-| 18 | [Прогноз оттока абонентов телеком-оператора](https://github.com/alex004v/ds_portfolio/tree/main/project_3_real_estate) |  |  |
+| 18 | [Прогноз оттока абонентов телеком-оператора](https://github.com/alex004v/ds_portfolio_yp/tree/main/18_telecom_clients_outflow_forecast) |  |  |
